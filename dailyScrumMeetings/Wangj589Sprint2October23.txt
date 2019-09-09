@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+	- written Pwd class with full documentation
+	- improve Cd class by add a new getTargetDirectory method and fully document it
+	
+What do I plan to work in the next three days?
+	- add a CommandExecuter class to take the responsibility of execution.
+	- and fix some input names for the classes in fileSystem package
+
+Am I blocked on anything?
+	- changing if-else statements into switch cases

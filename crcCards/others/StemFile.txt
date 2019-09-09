@@ -1,0 +1,8 @@
+Class name: StemFile
+Parent class (if any):
+Subclasses (if any): File, Directory
+
+Responsibilities:
+* A generally defined file that can contain values
+
+Collaborators:

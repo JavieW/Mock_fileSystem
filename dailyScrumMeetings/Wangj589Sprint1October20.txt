@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+	- finished the Cd class
+	- finished a basic code for Jshell, StemFile, File, Directory and FileSystem
+	
+What do I plan to work in the next three days?
+	- Let more command classes get finished, 
+	- Add more features for Jshell, StemFile, File, Directory and FileSystem
+
+Am I blocked on anything?
+	- A little bit confuse about the command with a path as a parameter
+	- does the path "//a/b/c" allowed as there are 2(may be more) / stay together

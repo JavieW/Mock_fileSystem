@@ -1,0 +1,8 @@
+What did I work on in the last three days?
+	- write cp, mv, tree, find commands
+	- add additional requirements for previous commands
+What do I plan to work in the next three days?
+	- go to the office hour get some help about save and load
+	- finish save and load
+Am I blocked on anything?
+	- 

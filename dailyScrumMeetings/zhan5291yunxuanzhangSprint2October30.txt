@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+	- Finish all left parts of CRC card for the command class.
+	- Check the basic code in command to affirm they are corresponding to CRC card.
+	
+What do I plan to work in the next three days?
+	- Start to work on Sprint3 Backlog with my team members.
+	
+Am I blocked on anything?
+	- Temporarily no.

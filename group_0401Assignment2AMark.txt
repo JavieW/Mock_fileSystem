@@ -1,0 +1,43 @@
+==== A2 phase I marking ====
+Your assignment is marked by:
+Bryan Tam, bryan.tam@mail.utoronto.ca
+
+Group number: 401
+UTORID usernames of members: liuyumi1, wangj589, wuyiqia2, zhan5291
+Total deductions: -9
+Grade: D+
+
+Individual grade due to insufficient contribution, according to CATME data:
+wuyiqia2: F
+zhan5291: F
+
+Your team's Phase II grade is based on this scale:
+
+    http://www.artsci.utoronto.ca/newstudents/transition/academic/grading
+
+The way we graded is as follows: your team starts with an A+. When errors and
+problems are found, you will lose 0, 1, 2, or 3 letter steps, depending on the
+severity. As an example, if you lost two steps, your team would earn an A-:
+
+     A+ -> A
+     A -> A-
+
+You were asked to follow the Scrum process. A big part of that is to maintain
+a product backlog and a sprint backlog.
+
+==== Product and Sprint backlogs ==== [up to -6]
+
+Several steps can be lost for these kinds of issues:
+
+- [x]  No evidence of Product or Sprint backlog -6 [-1 for missing Sprint 2]
+- [x]  No evidence of team assigning tasks to team members -3
+- [ ]  SB items not taken directly from PB -1
+- [ ]  SB items not broken down into smaller steps -1
+- [ ]  PB, SB uses noticeably bad grammar and/or spelling -2
+
+TA COMMENTS:
+-1 for missing Sprint 1
+In Sprint 3, tasks that were assigned were not directly related to user stories.
+
+[Total deductions in this section: -4]
+

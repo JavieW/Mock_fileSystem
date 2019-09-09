@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+	- finished the product backlog
+	- finished the sprint1 for assignment 2B
+What do I plan to work in the next three days?
+	- fix javadoc
+	- add unitest for assignment 2A's commands
+	- improve the design of path handling mechanism
+Am I blocked on anything?
+	- save 
+	- load

@@ -1,0 +1,9 @@
+Class name: FileExistException
+Parent class (if any): Exception
+Subclasses (if any):
+
+Responsibilities:
+* Show that the file does not exist
+
+Collaborators:
+/

@@ -1,0 +1,8 @@
+What did I work on in the last three days?
+	 -Finish the productBacklog of my own part.
+     -Make ideas with team for commands.
+What do I plan to work in the next three days?
+	 -Prepare to start my work on Sprint2
+     -improve my work on Sprint1
+Am I blocked on anything?
+ 	 - Confused on transfer commands to code

@@ -1,0 +1,10 @@
+Class name: Command
+Parent class (if any): 
+Subclasses (if any): Cat, Cd, Cp, Echo, Exit, Find, Get, History,
+					 Load, Ls, Man, Mkdir, Mv, Popd, Pushd, Pwd, 
+					 Tree
+Responsibilities:
+* provide basic functional abilities for other commands
+Collaborators:
+* FileSystem
+* Directory

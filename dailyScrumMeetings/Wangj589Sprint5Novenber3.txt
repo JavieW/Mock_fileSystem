@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+	- add an Command interface to reduce using static method
+	- replace if-else-if statement by using forName() method
+	- fixed some bugs in the code
+
+What do I plan to work in the next three days?
+	- further test our code
+	- write unit test for code
+
+Am I blocked on anything?
+	- 
+	

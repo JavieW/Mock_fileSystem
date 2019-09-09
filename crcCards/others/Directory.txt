@@ -1,0 +1,8 @@
+Class name: Directory
+Parent class (if any): StemFile
+Subclasses (if any):
+
+Responsibilities:
+* A kind of file(general) that contains values of files or other Directories
+
+Collaborators:

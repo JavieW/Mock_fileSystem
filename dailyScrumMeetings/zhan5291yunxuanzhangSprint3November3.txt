@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+	- Check whether we have finished all tasks.
+	- Fixed some errors on the form of comments.
+	
+What do I plan to work in the next three days?
+	- Work with my team members to complete the left part of the whole java shell. 
+
+Am I blocked on anything?
+	- Several mistakes on commands.

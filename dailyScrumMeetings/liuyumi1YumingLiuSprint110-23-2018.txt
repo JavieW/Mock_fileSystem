@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - worked on mkfir
+    - brainstormed ideas for filesystem and Jshell
+    - brainstormed ideas for commands
+
+What do I plan to work in the next three days?
+    - work on new tasks for sprint 2
+        - it will later be assigned on the sprint backlog for sprint2
+
+Am I blocked on anything?
+    - nothing yet

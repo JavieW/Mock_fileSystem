@@ -1,0 +1,14 @@
+a) What did I work on in the last three days? 
+       -Finish the productBacklog of my own part.
+       -Make ideas with team for commands.
+       -Finish the base code for "cat".
+       -Finish the NotFileException.
+
+b) What do I plan to work in the next three days?
+       -Make a list of what to do about the Sprint2. So that I can be convenient to start my task after Oct24.
+       -Prepare to work on new task in Sprint2.
+   
+c) Am I blocked on anything?
+       -I need to finish the display part before the task's due date.
+           (About displaying the content of the file)
+    

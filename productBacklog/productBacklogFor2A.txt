@@ -1,0 +1,22 @@
+Able to quit the program                                                                             3hrs
+Able to make folder in an existing folder															 3hrs
+Able to make a folder in a full path																 3hrs
+Able to go back to previous folder																	 2hrs
+Able to check in a new folder by name that relates to the current folder							 2hrs
+Able to check to the home folder																	 2hrs
+Able to see contents of a file																		 2.5hrs
+Able to see an error message if the file or the folder does not exist								 2hrs
+Able to see what is inside of a directory															 2hrs														 
+Able to see the folder currently in and the folders that I went through to get to the current folder 2hrs
+Able to save the directory and push it onto directory stack                                          2hrs
+Able to remove the top directory from directory stack                                                2hrs
+Able to see all the commands used before                                                             2hrs
+Able to see the history commands such that each command is labelled with a number such that the greater the number, the more recent it is  3hrs
+Able to see the invalid commands as well		                                                     2hrs																						  
+Able to specify how many recent commands I want to see																					   3hrs
+Able to display the contents of two files together in one screen																		   3hrs
+Able to write a string in the shell																	2hrs
+Able to overwrite the contents in a existing file by a string										2hrs
+Able to write a string in a new file																2hrs
+Able to add a string to a old file																	2hrs
+Able to check the users' guide for a command														2hrs

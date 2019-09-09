@@ -1,0 +1,10 @@
+Class name: Pwd
+Parent class (if any): Command
+Subclasses (if any):
+
+Responsibilities:
+* Print the current path(full path)
+
+Collaborators:
+* FileSystem
+* Directory

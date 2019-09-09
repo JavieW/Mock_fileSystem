@@ -1,0 +1,1274 @@
++++ASSIGNMENT2 TEAM MEMBER CONTRIBUTION+++
+
+
+
+PART 1) +++SVN CHECKOUT ON YOUR ASSIGNMENT1+++
+A    Assignment2/crcCards
+A    Assignment2/crcCards/Commands
+A    Assignment2/crcCards/others
+A    Assignment2/dailyScrumMeetings
+A    Assignment2/crcCards/others/EmptyDirectoryStackException.txt
+A    Assignment2/crcCards/others/FileExistException.txt
+A    Assignment2/crcCards/others/InvalidFileNameException.txt
+A    Assignment2/crcCards/others/JShell.txt
+A    Assignment2/crcCards/others/NotDirectoryException.txt
+A    Assignment2/crcCards/others/StemFile.txt
+A    Assignment2/crcCards/Commands/Cat.txt
+A    Assignment2/crcCards/Commands/Cd.txt
+A    Assignment2/crcCards/Commands/Command.txt
+A    Assignment2/crcCards/Commands/Echo.txt
+A    Assignment2/crcCards/Commands/Exit.txt
+A    Assignment2/crcCards/Commands/Get.txt
+A    Assignment2/crcCards/others/NotExistException.txt
+A    Assignment2/crcCards/others/SytaxEvaluater.txt
+A    Assignment2/dailyScrumMeetings/Wangj589Sprint2October23.txt
+A    Assignment2/dailyScrumMeetings/Wangj589Sprint6Novenber7.txt
+A    Assignment2/dailyScrumMeetings/Wangj589SprintB3Novenber22.txt
+A    Assignment2/productBacklog
+A    Assignment2/dailyScrumMeetings/Wangj589Sprint1October20.txt
+A    Assignment2/dailyScrumMeetings/Wangj589Sprint5Novenber3.txt
+A    Assignment2/dailyScrumMeetings/Wangj589SprintB2November18.txt
+A    Assignment2/sprints
+A    Assignment2/crcCards/Commands/History.txt
+A    Assignment2/crcCards/Commands/Load.txt
+A    Assignment2/crcCards/Commands/Ls
+A    Assignment2/crcCards/Commands/Ls.txt
+A    Assignment2/crcCards/Commands/Man.txt
+A    Assignment2/crcCards/Commands/Mkdir.txt
+A    Assignment2/src
+A    Assignment2/src/Exceptions
+A    Assignment2/dailyScrumMeetings/readMeDailyScrumMeetings.txt
+A    Assignment2/dailyScrumMeetings/zhan5291yunxuanzhangSprint2October27.txt
+A    Assignment2/dailyScrumMeetings/liuyumi1Sprint1November18
+A    Assignment2/dailyScrumMeetings/wuyiqia2Sprint1October23.txt
+A    Assignment2/dailyScrumMeetings/zhan5291yunxuanzhangSprint3November3.txt
+A    Assignment2/productBacklog/readMeProductBacklog.txt
+A    Assignment2/productBacklog/productBacklogA2B
+A    Assignment2/sprints/Sprint3Backlog.txt
+A    Assignment2/dailyScrumMeetings/liuyumi1YumingLiuSprint110-23-2018.txt
+A    Assignment2/dailyScrumMeetings/zhan5291yunxuanzhangSprint1October23.txt
+A    Assignment2/dailyScrumMeetings/zhan5291yunxuanzhangSprint3November7.txt
+A    Assignment2/sprints/Sprint1Backlog.txt
+A    Assignment2/src/commands
+A    Assignment2/crcCards/Commands/Mv.txt
+A    Assignment2/crcCards/Commands/Popd.txt
+A    Assignment2/crcCards/Commands/Pushd
+A    Assignment2/crcCards/Commands/Pushd.txt
+A    Assignment2/crcCards/Commands/Pwd.txt
+A    Assignment2/crcCards/Commands/Save.txt
+A    Assignment2/sprints/readMeSprints.txt
+A    Assignment2/src/Exceptions/CommandNotExitException.java
+A    Assignment2/sprints/SprintB2Backlot.txt
+A    Assignment2/src/Exceptions/FileExistException.java
+A    Assignment2/crcCards/Commands/Tree.txt
+A    Assignment2/crcCards/Commands/cp.txt
+A    Assignment2/crcCards/Commands/find.txt
+A    Assignment2/crcCards/others/CommandExecuter.txt
+A    Assignment2/crcCards/others/CommandNotExistException
+A    Assignment2/crcCards/others/Directory.txt
+A    Assignment2/src/Exceptions/MissingParameterException.java
+A    Assignment2/src/commands/Cat.java
+A    Assignment2/src/commands/Echo.java
+A    Assignment2/src/commands/History.java
+A    Assignment2/src/Exceptions/InvalidFileNameException.java
+A    Assignment2/src/Exceptions/NotExistException.java
+A    Assignment2/src/commands/Command.java
+A    Assignment2/src/commands/Find.java
+A    Assignment2/src/commands/Ls.java
+A    Assignment2/src/driver
+A    Assignment2/src/fileSystem
+A    Assignment2/src/test
+A    Assignment2/src/Exceptions/InvalidFileException.java
+A    Assignment2/src/Exceptions/NotDirectoryException.java
+A    Assignment2/src/commands/Cd.java
+A    Assignment2/src/commands/Exit.java
+A    Assignment2/src/commands/Load.java
+A    Assignment2/crcCards/others/DirectoryStack.txt
+A    Assignment2/crcCards/others/File.txt
+A    Assignment2/crcCards/others/FileSystem.txt
+A    Assignment2/crcCards/others/InvalidInputException.txt
+A    Assignment2/crcCards/others/MissingParameterException.txt
+A    Assignment2/crcCards/others/NotFileException.txt
+A    Assignment2/crcCards/readMeForCrcCards.txt
+A    Assignment2/dailyScrumMeetings/Wangj589Sprint3October27.txt
+A    Assignment2/dailyScrumMeetings/Wangj589SprintB1November15.txt
+A    Assignment2/dailyScrumMeetings/Wangj589SprintB4Novenber26.txt
+A    Assignment2/dailyScrumMeetings/wuyiqia2Sprint1November18
+A    Assignment2/dailyScrumMeetings/zhan5291yunxuanzhangSprint2October30.txt
+A    Assignment2/src/commands/Mv.java
+A    Assignment2/src/commands/Save.java
+A    Assignment2/src/fileSystem/Directory.java
+A    Assignment2/src/commands/Mkdir.java
+A    Assignment2/src/commands/Pwd.java
+A    Assignment2/src/driver/JShell.java
+A    Assignment2/src/commands/Popd.java
+A    Assignment2/src/commands/Tree.java
+A    Assignment2/src/fileSystem/DirectoryStack.java
+A    Assignment2/src/fileSystem/StemFile.java
+A    Assignment2/src/test/CpTest.java
+A    Assignment2/src/test/FileTest.java
+A    Assignment2/src/test/MkdirTest.java
+A    Assignment2/src/fileSystem/Getter.java
+A    Assignment2/src/test/CdTest.java
+A    Assignment2/src/test/ExitTest.java
+A    Assignment2/src/test/ManTest.java
+A    Assignment2/group_0401Assignment2AMark.txt
+A    Assignment2/src/fileSystem/FileSystem.java
+A    Assignment2/src/test/CatTest.java
+A    Assignment2/src/test/EchoTest.java
+A    Assignment2/src/test/HistoryTest.java
+A    Assignment2/group_0401Assignment2AContribution.txt
+A    Assignment2/productBacklog/productBacklogFor2A.txt
+A    Assignment2/sprints/SprintB1Backlot.txt
+A    Assignment2/src/Exceptions/EmptyDirectoryStackException.java
+A    Assignment2/src/Exceptions/InvalidInputException.java
+A    Assignment2/src/Exceptions/NotFileException.java
+A    Assignment2/readMeAssignment2A.txt
+A    Assignment2/src/commands/Cp.java
+A    Assignment2/src/commands/Get.java
+A    Assignment2/src/commands/Man.java
+A    Assignment2/src/commands/Pushd.java
+A    Assignment2/src/driver/CommandExecuter.java
+A    Assignment2/src/fileSystem/File.java
+A    Assignment2/src/fileSystem/SytaxEvaluater.java
+A    Assignment2/src/test/DirectoryTest.java
+A    Assignment2/src/test/FindTest.java
+A    Assignment2/src/test/Pwdtest.java
+Checked out revision 269.
+
+
+
+PART 2) +++SVN COMMIT LOGS ARE+++
+Marks Deductions here (-.5 max): 
+------------------------------------------------------------------------
+r269 | liuyumi1@UTORONTO.CA | 2018-11-26 23:58:55 -0500 (Mon, 26 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r268 | liuyumi1@UTORONTO.CA | 2018-11-26 23:58:48 -0500 (Mon, 26 Nov 2018) | 1 line
+
+	
+------------------------------------------------------------------------
+r267 | liuyumi1@UTORONTO.CA | 2018-11-26 21:16:14 -0500 (Mon, 26 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r266 | wangj589@UTORONTO.CA | 2018-11-26 21:09:13 -0500 (Mon, 26 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r265 | wangj589@UTORONTO.CA | 2018-11-26 20:10:55 -0500 (Mon, 26 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r264 | liuyumi1@UTORONTO.CA | 2018-11-26 20:09:04 -0500 (Mon, 26 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r263 | wangj589@UTORONTO.CA | 2018-11-26 20:08:06 -0500 (Mon, 26 Nov 2018) | 1 line
+
+update
+------------------------------------------------------------------------
+r262 | liuyumi1@UTORONTO.CA | 2018-11-26 20:07:13 -0500 (Mon, 26 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r261 | wangj589@UTORONTO.CA | 2018-11-26 20:07:02 -0500 (Mon, 26 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r260 | wangj589@UTORONTO.CA | 2018-11-26 20:06:55 -0500 (Mon, 26 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r259 | wangj589@UTORONTO.CA | 2018-11-26 20:06:47 -0500 (Mon, 26 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r258 | liuyumi1@UTORONTO.CA | 2018-11-26 20:06:43 -0500 (Mon, 26 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r257 | wangj589@UTORONTO.CA | 2018-11-26 20:06:21 -0500 (Mon, 26 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r256 | wangj589@UTORONTO.CA | 2018-11-26 20:06:08 -0500 (Mon, 26 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r255 | wangj589@UTORONTO.CA | 2018-11-26 20:04:28 -0500 (Mon, 26 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r254 | liuyumi1@UTORONTO.CA | 2018-11-26 19:50:57 -0500 (Mon, 26 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r253 | liuyumi1@UTORONTO.CA | 2018-11-26 19:50:30 -0500 (Mon, 26 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r252 | liuyumi1@UTORONTO.CA | 2018-11-26 18:48:35 -0500 (Mon, 26 Nov 2018) | 1 line
+
+formatted
+------------------------------------------------------------------------
+r251 | liuyumi1@UTORONTO.CA | 2018-11-26 18:34:57 -0500 (Mon, 26 Nov 2018) | 1 line
+
+fixed syn
+------------------------------------------------------------------------
+r250 | liuyumi1@UTORONTO.CA | 2018-11-26 18:34:33 -0500 (Mon, 26 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r249 | liuyumi1@UTORONTO.CA | 2018-11-26 18:30:11 -0500 (Mon, 26 Nov 2018) | 1 line
+
+Fixed collabrator
+------------------------------------------------------------------------
+r248 | liuyumi1@UTORONTO.CA | 2018-11-26 18:28:22 -0500 (Mon, 26 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r247 | liuyumi1@UTORONTO.CA | 2018-11-26 18:05:54 -0500 (Mon, 26 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r246 | liuyumi1@UTORONTO.CA | 2018-11-26 18:01:12 -0500 (Mon, 26 Nov 2018) | 1 line
+
+naming fixed
+------------------------------------------------------------------------
+r245 | liuyumi1@UTORONTO.CA | 2018-11-26 14:05:35 -0500 (Mon, 26 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r244 | liuyumi1@UTORONTO.CA | 2018-11-26 13:44:07 -0500 (Mon, 26 Nov 2018) | 1 line
+
+fixed naming
+------------------------------------------------------------------------
+r243 | liuyumi1@UTORONTO.CA | 2018-11-26 13:43:49 -0500 (Mon, 26 Nov 2018) | 1 line
+
+improved naming
+------------------------------------------------------------------------
+r242 | liuyumi1@UTORONTO.CA | 2018-11-26 00:57:44 -0500 (Mon, 26 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r241 | liuyumi1@UTORONTO.CA | 2018-11-26 00:38:53 -0500 (Mon, 26 Nov 2018) | 1 line
+
+format and naming fixed
+------------------------------------------------------------------------
+r240 | liuyumi1@UTORONTO.CA | 2018-11-26 00:36:05 -0500 (Mon, 26 Nov 2018) | 1 line
+
+fixed minor error
+------------------------------------------------------------------------
+r239 | liuyumi1@UTORONTO.CA | 2018-11-25 23:44:27 -0500 (Sun, 25 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r238 | liuyumi1@UTORONTO.CA | 2018-11-25 23:44:13 -0500 (Sun, 25 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r237 | liuyumi1@UTORONTO.CA | 2018-11-25 23:43:56 -0500 (Sun, 25 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r236 | liuyumi1@UTORONTO.CA | 2018-11-25 23:43:33 -0500 (Sun, 25 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r235 | wangj589@UTORONTO.CA | 2018-11-25 21:57:17 -0500 (Sun, 25 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r234 | wangj589@UTORONTO.CA | 2018-11-25 21:56:19 -0500 (Sun, 25 Nov 2018) | 1 line
+
+finished testing for echo
+------------------------------------------------------------------------
+r233 | wangj589@UTORONTO.CA | 2018-11-25 20:10:27 -0500 (Sun, 25 Nov 2018) | 1 line
+
+fix the bug of cp
+------------------------------------------------------------------------
+r232 | wangj589@UTORONTO.CA | 2018-11-25 20:10:07 -0500 (Sun, 25 Nov 2018) | 1 line
+
+finished test cp
+------------------------------------------------------------------------
+r231 | wangj589@UTORONTO.CA | 2018-11-25 19:27:10 -0500 (Sun, 25 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r230 | wangj589@UTORONTO.CA | 2018-11-25 19:26:40 -0500 (Sun, 25 Nov 2018) | 1 line
+
+finished the union test for cat
+------------------------------------------------------------------------
+r229 | wangj589@UTORONTO.CA | 2018-11-25 19:25:58 -0500 (Sun, 25 Nov 2018) | 1 line
+
+save my works
+------------------------------------------------------------------------
+r228 | wangj589@UTORONTO.CA | 2018-11-25 19:24:23 -0500 (Sun, 25 Nov 2018) | 1 line
+
+save my works
+------------------------------------------------------------------------
+r227 | liuyumi1@UTORONTO.CA | 2018-11-25 15:42:47 -0500 (Sun, 25 Nov 2018) | 2 lines
+
+
+
+------------------------------------------------------------------------
+r226 | liuyumi1@UTORONTO.CA | 2018-11-25 15:42:25 -0500 (Sun, 25 Nov 2018) | 1 line
+
+format
+------------------------------------------------------------------------
+r225 | liuyumi1@UTORONTO.CA | 2018-11-25 15:41:59 -0500 (Sun, 25 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r224 | liuyumi1@UTORONTO.CA | 2018-11-25 15:40:43 -0500 (Sun, 25 Nov 2018) | 1 line
+
+formatted
+------------------------------------------------------------------------
+r223 | liuyumi1@UTORONTO.CA | 2018-11-25 15:40:23 -0500 (Sun, 25 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r222 | liuyumi1@UTORONTO.CA | 2018-11-25 15:39:33 -0500 (Sun, 25 Nov 2018) | 1 line
+
+formatted
+------------------------------------------------------------------------
+r221 | liuyumi1@UTORONTO.CA | 2018-11-25 15:39:08 -0500 (Sun, 25 Nov 2018) | 1 line
+
+formatted
+------------------------------------------------------------------------
+r220 | liuyumi1@UTORONTO.CA | 2018-11-25 15:38:46 -0500 (Sun, 25 Nov 2018) | 1 line
+
+formatted
+------------------------------------------------------------------------
+r219 | liuyumi1@UTORONTO.CA | 2018-11-25 15:38:02 -0500 (Sun, 25 Nov 2018) | 1 line
+
+formatted
+------------------------------------------------------------------------
+r218 | liuyumi1@UTORONTO.CA | 2018-11-25 15:37:30 -0500 (Sun, 25 Nov 2018) | 1 line
+
+formatted
+------------------------------------------------------------------------
+r217 | liuyumi1@UTORONTO.CA | 2018-11-25 15:37:01 -0500 (Sun, 25 Nov 2018) | 1 line
+
+formatted
+------------------------------------------------------------------------
+r216 | liuyumi1@UTORONTO.CA | 2018-11-25 15:36:24 -0500 (Sun, 25 Nov 2018) | 1 line
+
+formatted
+------------------------------------------------------------------------
+r215 | liuyumi1@UTORONTO.CA | 2018-11-25 15:35:46 -0500 (Sun, 25 Nov 2018) | 1 line
+
+formatted
+------------------------------------------------------------------------
+r214 | liuyumi1@UTORONTO.CA | 2018-11-25 15:34:41 -0500 (Sun, 25 Nov 2018) | 1 line
+
+formatted
+------------------------------------------------------------------------
+r213 | liuyumi1@UTORONTO.CA | 2018-11-25 15:33:49 -0500 (Sun, 25 Nov 2018) | 1 line
+
+formatted
+------------------------------------------------------------------------
+r212 | liuyumi1@UTORONTO.CA | 2018-11-25 15:33:09 -0500 (Sun, 25 Nov 2018) | 1 line
+
+formatted
+------------------------------------------------------------------------
+r211 | liuyumi1@UTORONTO.CA | 2018-11-25 13:24:05 -0500 (Sun, 25 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r210 | liuyumi1@UTORONTO.CA | 2018-11-25 13:22:49 -0500 (Sun, 25 Nov 2018) | 1 line
+
+format
+------------------------------------------------------------------------
+r209 | liuyumi1@UTORONTO.CA | 2018-11-25 13:14:28 -0500 (Sun, 25 Nov 2018) | 1 line
+
+format comment
+------------------------------------------------------------------------
+r208 | liuyumi1@UTORONTO.CA | 2018-11-25 13:11:29 -0500 (Sun, 25 Nov 2018) | 1 line
+
+format
+------------------------------------------------------------------------
+r207 | liuyumi1@UTORONTO.CA | 2018-11-25 13:08:38 -0500 (Sun, 25 Nov 2018) | 2 lines
+
+format
+
+------------------------------------------------------------------------
+r206 | wangj589@UTORONTO.CA | 2018-11-24 22:39:30 -0500 (Sat, 24 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r205 | wangj589@UTORONTO.CA | 2018-11-24 22:39:04 -0500 (Sat, 24 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r204 | wangj589@UTORONTO.CA | 2018-11-24 01:14:20 -0500 (Sat, 24 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r203 | wangj589@UTORONTO.CA | 2018-11-24 01:08:37 -0500 (Sat, 24 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r202 | wangj589@UTORONTO.CA | 2018-11-24 00:59:08 -0500 (Sat, 24 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r201 | wangj589@UTORONTO.CA | 2018-11-24 00:58:40 -0500 (Sat, 24 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r200 | wangj589@UTORONTO.CA | 2018-11-21 13:54:47 -0500 (Wed, 21 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r199 | wangj589@UTORONTO.CA | 2018-11-21 13:54:18 -0500 (Wed, 21 Nov 2018) | 1 line
+
+tasks redistributed due to team mates drop the course.
+------------------------------------------------------------------------
+r198 | wangj589@UTORONTO.CA | 2018-11-19 03:48:35 -0500 (Mon, 19 Nov 2018) | 1 line
+
+test the new requirement for cat and fixed the bug
+------------------------------------------------------------------------
+r197 | wangj589@UTORONTO.CA | 2018-11-19 02:55:44 -0500 (Mon, 19 Nov 2018) | 1 line
+
+improved the redirection on all previously wrote classes
+------------------------------------------------------------------------
+r196 | wangj589@UTORONTO.CA | 2018-11-19 02:03:09 -0500 (Mon, 19 Nov 2018) | 1 line
+
+made some improvement based on 2A feedbacks
+------------------------------------------------------------------------
+r195 | wangj589@UTORONTO.CA | 2018-11-19 01:59:37 -0500 (Mon, 19 Nov 2018) | 1 line
+
+i finished the sprint2
+------------------------------------------------------------------------
+r194 | wangj589@UTORONTO.CA | 2018-11-19 00:47:22 -0500 (Mon, 19 Nov 2018) | 1 line
+
+fixed all java doc and improved Cd, Mkdir, Ls, Cat, Echo, CommandExcuter
+------------------------------------------------------------------------
+r193 | wangj589@UTORONTO.CA | 2018-11-19 00:45:46 -0500 (Mon, 19 Nov 2018) | 1 line
+
+my scrum meeting
+------------------------------------------------------------------------
+r192 | wuyiqia2@UTORONTO.CA | 2018-11-18 22:45:29 -0500 (Sun, 18 Nov 2018) | 1 line
+
+my sprint meeting
+------------------------------------------------------------------------
+r191 | liuyumi1@UTORONTO.CA | 2018-11-18 21:16:02 -0500 (Sun, 18 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r190 | tamman5@UTORONTO.CA | 2018-11-18 10:47:28 -0500 (Sun, 18 Nov 2018) | 1 line
+
+Assignment2A Marks
+------------------------------------------------------------------------
+r189 | tamman5@UTORONTO.CA | 2018-11-18 10:46:55 -0500 (Sun, 18 Nov 2018) | 1 line
+
+Assignment2A Members Contribution Stats
+------------------------------------------------------------------------
+r188 | wangj589@UTORONTO.CA | 2018-11-17 16:20:36 -0500 (Sat, 17 Nov 2018) | 1 line
+
+fix the java doc
+------------------------------------------------------------------------
+r187 | wangj589@UTORONTO.CA | 2018-11-13 00:04:05 -0500 (Tue, 13 Nov 2018) | 1 line
+
+I finished the sprint 1 for A2B, please finished the tasks on time.
+------------------------------------------------------------------------
+r186 | wangj589@UTORONTO.CA | 2018-11-12 23:45:28 -0500 (Mon, 12 Nov 2018) | 1 line
+
+fix some terminologies
+------------------------------------------------------------------------
+r185 | liuyumi1@UTORONTO.CA | 2018-11-12 23:34:17 -0500 (Mon, 12 Nov 2018) | 1 line
+
+Fixed some stories
+------------------------------------------------------------------------
+r184 | liuyumi1@UTORONTO.CA | 2018-11-12 23:29:40 -0500 (Mon, 12 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r183 | wangj589@UTORONTO.CA | 2018-11-12 23:12:31 -0500 (Mon, 12 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r182 | liuyumi1@UTORONTO.CA | 2018-11-12 23:07:11 -0500 (Mon, 12 Nov 2018) | 1 line
+
+Product backlog created
+------------------------------------------------------------------------
+r181 | zhan5291@UTORONTO.CA | 2018-11-08 00:00:21 -0500 (Thu, 08 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r180 | zhan5291@UTORONTO.CA | 2018-11-07 23:59:32 -0500 (Wed, 07 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r179 | liuyumi1@UTORONTO.CA | 2018-11-07 23:57:27 -0500 (Wed, 07 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r178 | wuyiqia2@UTORONTO.CA | 2018-11-07 23:54:49 -0500 (Wed, 07 Nov 2018) | 1 line
+
+unit test for Mkdir with comments
+------------------------------------------------------------------------
+r177 | liuyumi1@UTORONTO.CA | 2018-11-07 23:54:30 -0500 (Wed, 07 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r176 | wangj589@UTORONTO.CA | 2018-11-07 23:53:21 -0500 (Wed, 07 Nov 2018) | 1 line
+
+finished my Cd unit test
+------------------------------------------------------------------------
+r175 | liuyumi1@UTORONTO.CA | 2018-11-07 23:53:09 -0500 (Wed, 07 Nov 2018) | 1 line
+
+incomplete
+------------------------------------------------------------------------
+r174 | wuyiqia2@UTORONTO.CA | 2018-11-07 23:51:24 -0500 (Wed, 07 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r173 | wuyiqia2@UTORONTO.CA | 2018-11-07 23:50:33 -0500 (Wed, 07 Nov 2018) | 1 line
+
+unittest for mkdir
+------------------------------------------------------------------------
+r172 | zhan5291@UTORONTO.CA | 2018-11-07 23:45:13 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Finished the daily scrum meeting.
+------------------------------------------------------------------------
+r171 | wangj589@UTORONTO.CA | 2018-11-07 23:42:33 -0500 (Wed, 07 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r170 | zhan5291@UTORONTO.CA | 2018-11-07 22:57:04 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Modified the CRC card.
+------------------------------------------------------------------------
+r169 | zhan5291@UTORONTO.CA | 2018-11-07 22:55:57 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Modified the CRC card.
+------------------------------------------------------------------------
+r168 | zhan5291@UTORONTO.CA | 2018-11-07 22:53:34 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Modified the CRC card.
+------------------------------------------------------------------------
+r167 | zhan5291@UTORONTO.CA | 2018-11-07 22:53:10 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Modified the CRC card.
+------------------------------------------------------------------------
+r166 | zhan5291@UTORONTO.CA | 2018-11-07 22:52:31 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Modified the CRC card.
+------------------------------------------------------------------------
+r165 | zhan5291@UTORONTO.CA | 2018-11-07 22:51:56 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Modified the CRC card.
+------------------------------------------------------------------------
+r164 | zhan5291@UTORONTO.CA | 2018-11-07 22:51:09 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Modified the CRC card.
+------------------------------------------------------------------------
+r163 | zhan5291@UTORONTO.CA | 2018-11-07 22:50:43 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Modified the CRC card.
+------------------------------------------------------------------------
+r162 | zhan5291@UTORONTO.CA | 2018-11-07 22:49:36 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Modified the CRC card.
+------------------------------------------------------------------------
+r161 | zhan5291@UTORONTO.CA | 2018-11-07 22:48:24 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Modified the CRC card.
+------------------------------------------------------------------------
+r160 | zhan5291@UTORONTO.CA | 2018-11-07 22:47:32 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Modified the CRC card.
+------------------------------------------------------------------------
+r159 | zhan5291@UTORONTO.CA | 2018-11-07 22:31:01 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Added something new to the docstring.
+------------------------------------------------------------------------
+r158 | zhan5291@UTORONTO.CA | 2018-11-07 22:25:11 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Updated and something to the docstring.
+------------------------------------------------------------------------
+r157 | wuyiqia2@UTORONTO.CA | 2018-11-07 22:04:22 -0500 (Wed, 07 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r156 | zhan5291@UTORONTO.CA | 2018-11-07 22:03:59 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Fixed docstring.
+------------------------------------------------------------------------
+r155 | wuyiqia2@UTORONTO.CA | 2018-11-07 22:02:19 -0500 (Wed, 07 Nov 2018) | 1 line
+
+draft for test code
+------------------------------------------------------------------------
+r154 | wuyiqia2@UTORONTO.CA | 2018-11-07 21:58:35 -0500 (Wed, 07 Nov 2018) | 1 line
+
+correct one command
+------------------------------------------------------------------------
+r153 | liuyumi1@UTORONTO.CA | 2018-11-07 21:56:54 -0500 (Wed, 07 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r152 | liuyumi1@UTORONTO.CA | 2018-11-07 21:55:11 -0500 (Wed, 07 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r151 | liuyumi1@UTORONTO.CA | 2018-11-07 21:54:41 -0500 (Wed, 07 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r150 | liuyumi1@UTORONTO.CA | 2018-11-07 21:53:03 -0500 (Wed, 07 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r149 | liuyumi1@UTORONTO.CA | 2018-11-07 21:52:35 -0500 (Wed, 07 Nov 2018) | 1 line
+
+format
+------------------------------------------------------------------------
+r148 | wuyiqia2@UTORONTO.CA | 2018-11-07 21:52:17 -0500 (Wed, 07 Nov 2018) | 1 line
+
+correct java doc
+------------------------------------------------------------------------
+r147 | wuyiqia2@UTORONTO.CA | 2018-11-07 19:34:47 -0500 (Wed, 07 Nov 2018) | 1 line
+
+filled in name
+------------------------------------------------------------------------
+r146 | liuyumi1@UTORONTO.CA | 2018-11-07 19:33:14 -0500 (Wed, 07 Nov 2018) | 1 line
+
+formatted
+------------------------------------------------------------------------
+r145 | wuyiqia2@UTORONTO.CA | 2018-11-07 19:28:08 -0500 (Wed, 07 Nov 2018) | 1 line
+
+add java doc
+------------------------------------------------------------------------
+r144 | wuyiqia2@UTORONTO.CA | 2018-11-07 19:26:04 -0500 (Wed, 07 Nov 2018) | 1 line
+
+correct java doc
+------------------------------------------------------------------------
+r143 | wuyiqia2@UTORONTO.CA | 2018-11-07 19:18:22 -0500 (Wed, 07 Nov 2018) | 1 line
+
+add java doc
+------------------------------------------------------------------------
+r142 | liuyumi1@UTORONTO.CA | 2018-11-07 19:16:12 -0500 (Wed, 07 Nov 2018) | 2 lines
+
+formatted
+
+------------------------------------------------------------------------
+r141 | liuyumi1@UTORONTO.CA | 2018-11-07 19:14:58 -0500 (Wed, 07 Nov 2018) | 1 line
+
+formatted
+------------------------------------------------------------------------
+r140 | liuyumi1@UTORONTO.CA | 2018-11-07 19:14:24 -0500 (Wed, 07 Nov 2018) | 1 line
+
+formatted
+------------------------------------------------------------------------
+r139 | liuyumi1@UTORONTO.CA | 2018-11-07 19:13:45 -0500 (Wed, 07 Nov 2018) | 1 line
+
+formatted
+------------------------------------------------------------------------
+r138 | liuyumi1@UTORONTO.CA | 2018-11-07 19:12:59 -0500 (Wed, 07 Nov 2018) | 1 line
+
+formatted
+------------------------------------------------------------------------
+r137 | liuyumi1@UTORONTO.CA | 2018-11-07 19:11:50 -0500 (Wed, 07 Nov 2018) | 1 line
+
+formatted
+------------------------------------------------------------------------
+r136 | wuyiqia2@UTORONTO.CA | 2018-11-07 19:11:37 -0500 (Wed, 07 Nov 2018) | 1 line
+
+add java doc
+------------------------------------------------------------------------
+r135 | liuyumi1@UTORONTO.CA | 2018-11-07 19:11:00 -0500 (Wed, 07 Nov 2018) | 1 line
+
+formatted
+------------------------------------------------------------------------
+r134 | liuyumi1@UTORONTO.CA | 2018-11-07 19:09:24 -0500 (Wed, 07 Nov 2018) | 1 line
+
+javadoc, format
+------------------------------------------------------------------------
+r133 | wuyiqia2@UTORONTO.CA | 2018-11-07 19:04:43 -0500 (Wed, 07 Nov 2018) | 1 line
+
+correct java doc
+------------------------------------------------------------------------
+r132 | wuyiqia2@UTORONTO.CA | 2018-11-07 19:04:32 -0500 (Wed, 07 Nov 2018) | 1 line
+
+correct java doc
+------------------------------------------------------------------------
+r131 | wuyiqia2@UTORONTO.CA | 2018-11-07 18:53:10 -0500 (Wed, 07 Nov 2018) | 1 line
+
+add java doc and comments
+------------------------------------------------------------------------
+r130 | wuyiqia2@UTORONTO.CA | 2018-11-07 18:25:40 -0500 (Wed, 07 Nov 2018) | 1 line
+
+add java doc and comments
+------------------------------------------------------------------------
+r129 | wuyiqia2@UTORONTO.CA | 2018-11-07 17:54:11 -0500 (Wed, 07 Nov 2018) | 1 line
+
+correct format
+------------------------------------------------------------------------
+r128 | wuyiqia2@UTORONTO.CA | 2018-11-07 17:53:43 -0500 (Wed, 07 Nov 2018) | 1 line
+
+correct format
+------------------------------------------------------------------------
+r127 | wuyiqia2@UTORONTO.CA | 2018-11-07 17:18:17 -0500 (Wed, 07 Nov 2018) | 1 line
+
+correct format
+------------------------------------------------------------------------
+r126 | liuyumi1@UTORONTO.CA | 2018-11-07 17:03:31 -0500 (Wed, 07 Nov 2018) | 1 line
+
+format, javadoc
+------------------------------------------------------------------------
+r125 | liuyumi1@UTORONTO.CA | 2018-11-07 16:59:32 -0500 (Wed, 07 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r124 | wuyiqia2@UTORONTO.CA | 2018-11-07 16:48:56 -0500 (Wed, 07 Nov 2018) | 1 line
+
+correct the java doc
+------------------------------------------------------------------------
+r123 | wuyiqia2@UTORONTO.CA | 2018-11-07 16:45:11 -0500 (Wed, 07 Nov 2018) | 1 line
+
+add java doc and comments
+------------------------------------------------------------------------
+r122 | liuyumi1@UTORONTO.CA | 2018-11-07 16:45:09 -0500 (Wed, 07 Nov 2018) | 1 line
+
+javadoc formatted
+------------------------------------------------------------------------
+r121 | wuyiqia2@UTORONTO.CA | 2018-11-07 16:38:56 -0500 (Wed, 07 Nov 2018) | 1 line
+
+add java doc and comments
+------------------------------------------------------------------------
+r120 | liuyumi1@UTORONTO.CA | 2018-11-07 16:36:32 -0500 (Wed, 07 Nov 2018) | 2 lines
+
+javadoc, Formatted
+
+------------------------------------------------------------------------
+r119 | wuyiqia2@UTORONTO.CA | 2018-11-07 16:03:05 -0500 (Wed, 07 Nov 2018) | 1 line
+
+add java doc and comment 
+------------------------------------------------------------------------
+r118 | liuyumi1@UTORONTO.CA | 2018-11-07 15:55:00 -0500 (Wed, 07 Nov 2018) | 1 line
+
+part way done
+------------------------------------------------------------------------
+r117 | wuyiqia2@UTORONTO.CA | 2018-11-07 15:53:46 -0500 (Wed, 07 Nov 2018) | 1 line
+
+correct java doc
+------------------------------------------------------------------------
+r116 | liuyumi1@UTORONTO.CA | 2018-11-07 15:44:38 -0500 (Wed, 07 Nov 2018) | 1 line
+
+formatted
+------------------------------------------------------------------------
+r115 | liuyumi1@UTORONTO.CA | 2018-11-07 15:41:36 -0500 (Wed, 07 Nov 2018) | 1 line
+
+javadoc format
+------------------------------------------------------------------------
+r114 | wuyiqia2@UTORONTO.CA | 2018-11-07 15:27:04 -0500 (Wed, 07 Nov 2018) | 1 line
+
+add java doc and commands
+------------------------------------------------------------------------
+r113 | liuyumi1@UTORONTO.CA | 2018-11-07 15:24:38 -0500 (Wed, 07 Nov 2018) | 1 line
+
+javadoc, formatted
+------------------------------------------------------------------------
+r112 | liuyumi1@UTORONTO.CA | 2018-11-07 15:23:24 -0500 (Wed, 07 Nov 2018) | 1 line
+
+formatted
+------------------------------------------------------------------------
+r111 | liuyumi1@UTORONTO.CA | 2018-11-07 15:22:53 -0500 (Wed, 07 Nov 2018) | 2 lines
+
+formatted
+
+------------------------------------------------------------------------
+r110 | liuyumi1@UTORONTO.CA | 2018-11-07 15:20:56 -0500 (Wed, 07 Nov 2018) | 1 line
+
+javadoc, format
+------------------------------------------------------------------------
+r109 | liuyumi1@UTORONTO.CA | 2018-11-07 15:19:47 -0500 (Wed, 07 Nov 2018) | 1 line
+
+javadoc
+------------------------------------------------------------------------
+r108 | liuyumi1@UTORONTO.CA | 2018-11-07 15:16:15 -0500 (Wed, 07 Nov 2018) | 1 line
+
+javadoc
+------------------------------------------------------------------------
+r107 | liuyumi1@UTORONTO.CA | 2018-11-07 15:08:04 -0500 (Wed, 07 Nov 2018) | 2 lines
+
+javadoc added
+
+------------------------------------------------------------------------
+r106 | wuyiqia2@UTORONTO.CA | 2018-11-07 12:35:07 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Documented
+------------------------------------------------------------------------
+r105 | wuyiqia2@UTORONTO.CA | 2018-11-07 12:24:50 -0500 (Wed, 07 Nov 2018) | 2 lines
+
+javadoc added
+
+------------------------------------------------------------------------
+r104 | liuyumi1@UTORONTO.CA | 2018-11-07 00:00:39 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Missing javadoc, otherwise completed
+------------------------------------------------------------------------
+r103 | liuyumi1@UTORONTO.CA | 2018-11-06 23:27:20 -0500 (Tue, 06 Nov 2018) | 1 line
+
+javadoc added, more comments added, formatted
+------------------------------------------------------------------------
+r102 | liuyumi1@UTORONTO.CA | 2018-11-06 23:10:20 -0500 (Tue, 06 Nov 2018) | 1 line
+
+added javadoc, formatted code
+------------------------------------------------------------------------
+r101 | liuyumi1@UTORONTO.CA | 2018-11-06 23:08:00 -0500 (Tue, 06 Nov 2018) | 1 line
+
+added more comments, provided javadoc, formatted
+------------------------------------------------------------------------
+r100 | liuyumi1@UTORONTO.CA | 2018-11-06 21:46:03 -0500 (Tue, 06 Nov 2018) | 1 line
+
+added appropriated javadoc and rightly formatted
+------------------------------------------------------------------------
+r99 | liuyumi1@UTORONTO.CA | 2018-11-06 21:26:59 -0500 (Tue, 06 Nov 2018) | 1 line
+
+Cd formatted with some comment added and fixed
+------------------------------------------------------------------------
+r98 | liuyumi1@UTORONTO.CA | 2018-11-06 20:11:18 -0500 (Tue, 06 Nov 2018) | 1 line
+
+added javadoc for class
+------------------------------------------------------------------------
+r97 | liuyumi1@UTORONTO.CA | 2018-11-06 19:47:39 -0500 (Tue, 06 Nov 2018) | 2 lines
+
+Fixed and added necessary comments, fixed the format of the code
+
+------------------------------------------------------------------------
+r96 | liuyumi1@UTORONTO.CA | 2018-11-06 18:39:25 -0500 (Tue, 06 Nov 2018) | 1 line
+
+sprint 3(midway)
+------------------------------------------------------------------------
+r95 | wangj589@UTORONTO.CA | 2018-11-06 03:36:08 -0500 (Tue, 06 Nov 2018) | 1 line
+
+fix bugs for extra white space
+------------------------------------------------------------------------
+r94 | wangj589@UTORONTO.CA | 2018-11-06 03:13:40 -0500 (Tue, 06 Nov 2018) | 1 line
+
+fixed bugs in Cd, DirectoryStack, File, Pwd, improved error messages in lots of commands, enabled Mkdir to handle multiple arguments, improved add method in Directory
+------------------------------------------------------------------------
+r93 | wangj589@UTORONTO.CA | 2018-11-05 22:56:10 -0500 (Mon, 05 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r92 | zhan5291@UTORONTO.CA | 2018-11-03 18:03:44 -0400 (Sat, 03 Nov 2018) | 1 line
+
+Finished daily scrum meeting.
+------------------------------------------------------------------------
+r91 | wangj589@UTORONTO.CA | 2018-11-01 19:04:49 -0400 (Thu, 01 Nov 2018) | 1 line
+
+add an command interface to reduce using static methods.
+------------------------------------------------------------------------
+r90 | wangj589@UTORONTO.CA | 2018-11-01 11:14:33 -0400 (Thu, 01 Nov 2018) | 1 line
+
+tested and fixed bugs
+------------------------------------------------------------------------
+r89 | zhan5291@UTORONTO.CA | 2018-10-30 17:35:55 -0400 (Tue, 30 Oct 2018) | 1 line
+
+Finished CRC card of SytaxEvaluater.
+------------------------------------------------------------------------
+r88 | zhan5291@UTORONTO.CA | 2018-10-30 17:32:25 -0400 (Tue, 30 Oct 2018) | 1 line
+
+Finished CRC card of DirectoryStack.
+------------------------------------------------------------------------
+r87 | zhan5291@UTORONTO.CA | 2018-10-30 17:28:39 -0400 (Tue, 30 Oct 2018) | 1 line
+
+Finished CRC card of an exception.
+------------------------------------------------------------------------
+r86 | zhan5291@UTORONTO.CA | 2018-10-30 17:27:05 -0400 (Tue, 30 Oct 2018) | 1 line
+
+Finished CRC card of an exception.
+------------------------------------------------------------------------
+r85 | zhan5291@UTORONTO.CA | 2018-10-30 17:25:45 -0400 (Tue, 30 Oct 2018) | 1 line
+
+Finished CRC card of an exception.
+------------------------------------------------------------------------
+r84 | zhan5291@UTORONTO.CA | 2018-10-30 17:24:27 -0400 (Tue, 30 Oct 2018) | 1 line
+
+Finished CRC card of an exception.
+------------------------------------------------------------------------
+r83 | zhan5291@UTORONTO.CA | 2018-10-30 17:23:07 -0400 (Tue, 30 Oct 2018) | 1 line
+
+Finished CRC card of an exception.
+------------------------------------------------------------------------
+r82 | zhan5291@UTORONTO.CA | 2018-10-30 17:21:36 -0400 (Tue, 30 Oct 2018) | 1 line
+
+Finished CRC card of an exception.
+------------------------------------------------------------------------
+r81 | zhan5291@UTORONTO.CA | 2018-10-30 17:19:51 -0400 (Tue, 30 Oct 2018) | 1 line
+
+Finished CRC card of an exception. 
+------------------------------------------------------------------------
+r80 | zhan5291@UTORONTO.CA | 2018-10-30 17:17:18 -0400 (Tue, 30 Oct 2018) | 1 line
+
+Finished CRC card of an exception.
+------------------------------------------------------------------------
+r79 | zhan5291@UTORONTO.CA | 2018-10-30 17:14:46 -0400 (Tue, 30 Oct 2018) | 1 line
+
+Finished CRC card of an exception
+------------------------------------------------------------------------
+r78 | zhan5291@UTORONTO.CA | 2018-10-30 17:11:02 -0400 (Tue, 30 Oct 2018) | 1 line
+
+Finished CRC card of JShell.
+------------------------------------------------------------------------
+r77 | zhan5291@UTORONTO.CA | 2018-10-30 17:03:59 -0400 (Tue, 30 Oct 2018) | 1 line
+
+Finished CRC card of CommandExecuter.
+------------------------------------------------------------------------
+r76 | zhan5291@UTORONTO.CA | 2018-10-30 16:50:28 -0400 (Tue, 30 Oct 2018) | 1 line
+
+Finished the daily scrum meeting
+------------------------------------------------------------------------
+r75 | zhan5291@UTORONTO.CA | 2018-10-30 15:29:35 -0400 (Tue, 30 Oct 2018) | 1 line
+
+Finished the CRC card of Pushd
+------------------------------------------------------------------------
+r74 | zhan5291@UTORONTO.CA | 2018-10-30 15:27:03 -0400 (Tue, 30 Oct 2018) | 1 line
+
+Finished the CRC card of Popd
+------------------------------------------------------------------------
+r73 | zhan5291@UTORONTO.CA | 2018-10-30 15:16:38 -0400 (Tue, 30 Oct 2018) | 1 line
+
+Finished the CRC card of Ls.
+------------------------------------------------------------------------
+r72 | zhan5291@UTORONTO.CA | 2018-10-30 13:55:05 -0400 (Tue, 30 Oct 2018) | 1 line
+
+Finished the CRC card of Mkdir.
+------------------------------------------------------------------------
+r71 | zhan5291@UTORONTO.CA | 2018-10-30 13:49:04 -0400 (Tue, 30 Oct 2018) | 1 line
+
+Finish the CRC card of Man.
+------------------------------------------------------------------------
+r70 | zhan5291@UTORONTO.CA | 2018-10-30 13:43:27 -0400 (Tue, 30 Oct 2018) | 1 line
+
+Finished the CRC card of Ls.
+------------------------------------------------------------------------
+r69 | zhan5291@UTORONTO.CA | 2018-10-30 13:27:59 -0400 (Tue, 30 Oct 2018) | 1 line
+
+Finished the CRC card of History.
+------------------------------------------------------------------------
+r68 | zhan5291@UTORONTO.CA | 2018-10-30 13:09:12 -0400 (Tue, 30 Oct 2018) | 1 line
+
+Finished CRC card of Echo.
+------------------------------------------------------------------------
+r67 | zhan5291@UTORONTO.CA | 2018-10-30 12:56:25 -0400 (Tue, 30 Oct 2018) | 1 line
+
+Finished the CRC card of Cat.
+------------------------------------------------------------------------
+r66 | wangj589@UTORONTO.CA | 2018-10-29 23:51:19 -0400 (Mon, 29 Oct 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r65 | wangj589@UTORONTO.CA | 2018-10-28 14:13:19 -0400 (Sun, 28 Oct 2018) | 1 line
+
+add more classes and a exception, also fixed the problem with throwing exceptions
+------------------------------------------------------------------------
+r64 | wangj589@UTORONTO.CA | 2018-10-27 23:46:11 -0400 (Sat, 27 Oct 2018) | 1 line
+
+submitting my today's scrumMeeting
+------------------------------------------------------------------------
+r63 | zhan5291@UTORONTO.CA | 2018-10-27 14:57:13 -0400 (Sat, 27 Oct 2018) | 1 line
+
+Daily scrum meetings has been finished
+------------------------------------------------------------------------
+r62 | wangj589@UTORONTO.CA | 2018-10-26 20:27:24 -0400 (Fri, 26 Oct 2018) | 1 line
+
+removing a responsibility to CammandExecuter
+------------------------------------------------------------------------
+r61 | wangj589@UTORONTO.CA | 2018-10-26 20:26:27 -0400 (Fri, 26 Oct 2018) | 1 line
+
+adding a new class CommandExecuter
+------------------------------------------------------------------------
+r60 | wangj589@UTORONTO.CA | 2018-10-26 20:25:01 -0400 (Fri, 26 Oct 2018) | 1 line
+
+adding new Exception
+------------------------------------------------------------------------
+r59 | zhan5291@UTORONTO.CA | 2018-10-24 02:37:20 -0400 (Wed, 24 Oct 2018) | 1 line
+
+I have added a helper function to make the original function more efficient. Otherwise it will be overwriting and not easy to fixed while there exists errors with my code.
+------------------------------------------------------------------------
+r58 | wangj589@UTORONTO.CA | 2018-10-24 01:15:09 -0400 (Wed, 24 Oct 2018) | 1 line
+
+add SytaxEvaluater class to check the validation of inputs
+------------------------------------------------------------------------
+r57 | wangj589@UTORONTO.CA | 2018-10-24 01:13:48 -0400 (Wed, 24 Oct 2018) | 1 line
+
+add more Exceptions to give Error message for invalid inputs
+------------------------------------------------------------------------
+r56 | wangj589@UTORONTO.CA | 2018-10-24 01:12:59 -0400 (Wed, 24 Oct 2018) | 1 line
+
+add new arguments to check the validation of input file name or parameter
+------------------------------------------------------------------------
+r55 | wangj589@UTORONTO.CA | 2018-10-23 23:52:30 -0400 (Tue, 23 Oct 2018) | 1 line
+
+my daily scrum meetings on October 23th
+------------------------------------------------------------------------
+r54 | zhan5291@UTORONTO.CA | 2018-10-23 23:51:21 -0400 (Tue, 23 Oct 2018) | 1 line
+
+I made an adjustment to my Cat.java
+------------------------------------------------------------------------
+r53 | liuyumi1@UTORONTO.CA | 2018-10-23 23:46:23 -0400 (Tue, 23 Oct 2018) | 1 line
+
+first scrum
+------------------------------------------------------------------------
+r52 | wangj589@UTORONTO.CA | 2018-10-23 23:44:48 -0400 (Tue, 23 Oct 2018) | 1 line
+
+change the return the path to print the path and add the javadoc for it
+------------------------------------------------------------------------
+r51 | wuyiqia2@UTORONTO.CA | 2018-10-23 23:37:10 -0400 (Tue, 23 Oct 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r50 | wangj589@UTORONTO.CA | 2018-10-23 23:35:25 -0400 (Tue, 23 Oct 2018) | 1 line
+
+since you guys often use my cd method to get into a target directory, i add a new method getTargetDirectory for you to play with
+------------------------------------------------------------------------
+r49 | wuyiqia2@UTORONTO.CA | 2018-10-23 23:24:46 -0400 (Tue, 23 Oct 2018) | 1 line
+
+my dailyScrumMeeting
+------------------------------------------------------------------------
+r48 | wuyiqia2@UTORONTO.CA | 2018-10-23 23:21:41 -0400 (Tue, 23 Oct 2018) | 1 line
+
+draft
+------------------------------------------------------------------------
+r47 | zhan5291@UTORONTO.CA | 2018-10-23 22:41:57 -0400 (Tue, 23 Oct 2018) | 1 line
+
+I add some new contents in this file
+------------------------------------------------------------------------
+r46 | zhan5291@UTORONTO.CA | 2018-10-23 22:39:41 -0400 (Tue, 23 Oct 2018) | 1 line
+
+The basic code for "cat" finished.
+------------------------------------------------------------------------
+r45 | zhan5291@UTORONTO.CA | 2018-10-23 22:38:57 -0400 (Tue, 23 Oct 2018) | 1 line
+
+Daily ScrumMeetings finished.
+------------------------------------------------------------------------
+r44 | wangj589@UTORONTO.CA | 2018-10-23 22:24:51 -0400 (Tue, 23 Oct 2018) | 1 line
+
+i set my Cd class's cdPath method private now, please use cd method
+------------------------------------------------------------------------
+r43 | zhan5291@UTORONTO.CA | 2018-10-23 22:23:17 -0400 (Tue, 23 Oct 2018) | 1 line
+
+That is an exception
+------------------------------------------------------------------------
+r42 | wangj589@UTORONTO.CA | 2018-10-23 22:21:08 -0400 (Tue, 23 Oct 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r41 | liuyumi1@UTORONTO.CA | 2018-10-23 00:05:33 -0400 (Tue, 23 Oct 2018) | 1 line
+
+exception for jshell, catch missing parametre
+------------------------------------------------------------------------
+r40 | liuyumi1@UTORONTO.CA | 2018-10-23 00:04:55 -0400 (Tue, 23 Oct 2018) | 1 line
+
+this exception is made for mkdir at this moment to catch error if user tries to make a file with the same name as a pre existing file
+------------------------------------------------------------------------
+r39 | liuyumi1@UTORONTO.CA | 2018-10-22 00:57:23 -0400 (Mon, 22 Oct 2018) | 1 line
+
+added exceptions
+------------------------------------------------------------------------
+r38 | liuyumi1@UTORONTO.CA | 2018-10-22 00:34:14 -0400 (Mon, 22 Oct 2018) | 1 line
+
+base code for mkdir, untested and comment incomplete
+------------------------------------------------------------------------
+r37 | liuyumi1@UTORONTO.CA | 2018-10-21 23:41:16 -0400 (Sun, 21 Oct 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r36 | liuyumi1@UTORONTO.CA | 2018-10-21 23:29:46 -0400 (Sun, 21 Oct 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r35 | liuyumi1@UTORONTO.CA | 2018-10-21 23:24:32 -0400 (Sun, 21 Oct 2018) | 1 line
+
+due to the task being unreasonable and some team members accidentally writting other tasks, the changes has been made to the tasks, and it has been redistributed among members.
+------------------------------------------------------------------------
+r34 | wangj589@UTORONTO.CA | 2018-10-21 23:23:39 -0400 (Sun, 21 Oct 2018) | 1 line
+
+add if statement to argue pwd command
+------------------------------------------------------------------------
+r33 | wangj589@UTORONTO.CA | 2018-10-21 22:59:46 -0400 (Sun, 21 Oct 2018) | 1 line
+
+I finished CRC cards for Exit and Pwd
+------------------------------------------------------------------------
+r32 | wangj589@UTORONTO.CA | 2018-10-21 22:56:43 -0400 (Sun, 21 Oct 2018) | 1 line
+
+I finished Exit and Pwd Classes
+------------------------------------------------------------------------
+r31 | wangj589@UTORONTO.CA | 2018-10-21 21:59:01 -0400 (Sun, 21 Oct 2018) | 1 line
+
+sorry for delay
+------------------------------------------------------------------------
+r30 | wangj589@UTORONTO.CA | 2018-10-21 18:59:35 -0400 (Sun, 21 Oct 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r29 | wangj589@UTORONTO.CA | 2018-10-21 18:59:16 -0400 (Sun, 21 Oct 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r28 | wangj589@UTORONTO.CA | 2018-10-21 18:58:39 -0400 (Sun, 21 Oct 2018) | 1 line
+
+i add javadoc and comment for it meanwhile i fix some bugs
+------------------------------------------------------------------------
+r27 | wangj589@UTORONTO.CA | 2018-10-21 14:52:51 -0400 (Sun, 21 Oct 2018) | 1 line
+
+i finished the basic of of Jshell, flieSystem, File, Directory, Cd and some CRC cards
+------------------------------------------------------------------------
+r26 | wangj589@UTORONTO.CA | 2018-10-21 13:57:01 -0400 (Sun, 21 Oct 2018) | 1 line
+
+update honor code
+------------------------------------------------------------------------
+r25 | wangj589@UTORONTO.CA | 2018-10-21 11:58:38 -0400 (Sun, 21 Oct 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r24 | wangj589@UTORONTO.CA | 2018-10-21 11:58:11 -0400 (Sun, 21 Oct 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r23 | wangj589@UTORONTO.CA | 2018-10-21 02:03:19 -0400 (Sun, 21 Oct 2018) | 1 line
+
+basic codes for file system
+------------------------------------------------------------------------
+r20 | liuyumi1@UTORONTO.CA | 2018-10-17 23:50:26 -0400 (Wed, 17 Oct 2018) | 1 line
+
+added crc card as a task for everyone, this will be a group task
+------------------------------------------------------------------------
+r19 | liuyumi1@UTORONTO.CA | 2018-10-17 23:47:56 -0400 (Wed, 17 Oct 2018) | 1 line
+
+First version of sprint1backlog
+------------------------------------------------------------------------
+r16 | wuyiqia2@UTORONTO.CA | 2018-10-17 23:16:29 -0400 (Wed, 17 Oct 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r15 | wuyiqia2@UTORONTO.CA | 2018-10-17 23:14:34 -0400 (Wed, 17 Oct 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r14 | wangj589@UTORONTO.CA | 2018-10-17 23:11:04 -0400 (Wed, 17 Oct 2018) | 1 line
+
+finished the rest
+------------------------------------------------------------------------
+r13 | wuyiqia2@UTORONTO.CA | 2018-10-17 23:08:42 -0400 (Wed, 17 Oct 2018) | 1 line
+
+finished up to cat user stories
+------------------------------------------------------------------------
+r12 | zhan5291@UTORONTO.CA | 2018-10-17 23:05:07 -0400 (Wed, 17 Oct 2018) | 1 line
+
+Push and pop finished.
+------------------------------------------------------------------------
+r11 | liuyumi1@UTORONTO.CA | 2018-10-17 22:49:24 -0400 (Wed, 17 Oct 2018) | 1 line
+
+time added
+------------------------------------------------------------------------
+r10 | liuyumi1@UTORONTO.CA | 2018-10-17 22:15:42 -0400 (Wed, 17 Oct 2018) | 1 line
+
+finished  ls and pwd user stories
+------------------------------------------------------------------------
+r9 | liuyumi1@UTORONTO.CA | 2018-10-17 21:59:02 -0400 (Wed, 17 Oct 2018) | 1 line
+
+very first user stories
+------------------------------------------------------------------------
+r7 | attarwal@UTORONTO.CA | 2018-10-15 18:06:25 -0400 (Mon, 15 Oct 2018) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r6 | attarwal@UTORONTO.CA | 2018-10-15 18:06:25 -0400 (Mon, 15 Oct 2018) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r5 | attarwal@UTORONTO.CA | 2018-10-15 18:06:24 -0400 (Mon, 15 Oct 2018) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r4 | attarwal@UTORONTO.CA | 2018-10-15 18:06:23 -0400 (Mon, 15 Oct 2018) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r3 | attarwal@UTORONTO.CA | 2018-10-15 18:06:23 -0400 (Mon, 15 Oct 2018) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r2 | attarwal@UTORONTO.CA | 2018-10-15 18:06:22 -0400 (Mon, 15 Oct 2018) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r1 | Markus | 2018-10-14 15:26:03 -0400 (Sun, 14 Oct 2018) | 1 line
+
+
+------------------------------------------------------------------------
+
+
+
+Part 3) +++Work Distribution of Team Members+++
++++ON ALL SOURCE FILES+++
+  24 attarwal@U
+ 423 liuyumi1@U
+2243 wangj589@U
+  93 wuyiqia2@U
+  55 zhan5291@U
++++ON CRC CARDS+++
+   9 attarwal@U
++++ON DAILYSCRUMMEETINGS+++
+  41 attarwal@U
+  11 liuyumi1@U
+  98 wangj589@U
+   8 wuyiqia2@U
+  52 zhan5291@U
++++ON PRODUCT BACKLOG +++
+  11 attarwal@U
+   9 liuyumi1@U
+   6 wangj589@U
+   5 wuyiqia2@U
+   2 zhan5291@U
++++ON SPRINTS+++
+  68 attarwal@U
+  65 liuyumi1@U
+  81 wangj589@U
+1084
+Part 4) SVN Commits
+
+
+On Sprints
+   1  attarwal@UTORONTO.CA 
+   4  liuyumi1@UTORONTO.CA 
+   3  wangj589@UTORONTO.CA 
+
+
+On CRC Cards
+   1  attarwal@UTORONTO.CA 
+  10  liuyumi1@UTORONTO.CA 
+   3  wangj589@UTORONTO.CA 
+  33  zhan5291@UTORONTO.CA 
+
+
+On DailyScrumMeetings
+   1  attarwal@UTORONTO.CA 
+   2  liuyumi1@UTORONTO.CA 
+  11  wangj589@UTORONTO.CA 
+   3  wuyiqia2@UTORONTO.CA 
+   5  zhan5291@UTORONTO.CA 
+
+
+On ProductBacklog
+   1  attarwal@UTORONTO.CA 
+   6  liuyumi1@UTORONTO.CA 
+   3  wangj589@UTORONTO.CA 
+   3  wuyiqia2@UTORONTO.CA 
+   1  zhan5291@UTORONTO.CA 
+
+
+On source
+   1  attarwal@UTORONTO.CA 
+  81  liuyumi1@UTORONTO.CA 
+  49  wangj589@UTORONTO.CA 
+  28  wuyiqia2@UTORONTO.CA 
+  10  zhan5291@UTORONTO.CA 

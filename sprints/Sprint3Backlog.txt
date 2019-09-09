@@ -1,0 +1,23 @@
+//Sprint 3 Backlog.  
+October 31 to November 7
+
+Note, members are did not rigorously follow the software development cycle, the entire sprint2
+backlog is missing. As a result, many code were discussed together and occasions of pair programming
+was common. This should change in assignment 2b, scrum and sprint process will be followed rigorously
+
+User Stories from Product Backlog that we will address in this sprint:
+All user stories are addressed
+
+Specific tasks to be accomplished:
+a-1. 30-40% unit testing
+a-2. Complete docstrng for all
+b-1. format code up to google java style
+
+
+These tasks are assigned as follows:
+
+User: Yiqian
+Tasks: a-1, a-2
+
+User: Yuming
+Tasks: a-1, a-2, b-1

@@ -1,0 +1,8 @@
+Class name: File
+Parent class (if any): StemFile
+Subclasses (if any):
+
+Responsibilities:
+* A kind of file(general) that can contain txt values.
+
+Collaborators:

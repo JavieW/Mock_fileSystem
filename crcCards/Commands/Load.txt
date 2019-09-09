@@ -1,0 +1,11 @@
+Class name: Load
+Parent class (if any): Command
+Subclasses (if any):
+
+Responsibilities:
+* Load the contents of the File Name and reinitialize everything that was saved
+  previously into the FileName.
+
+Collaborators:
+* FileSystem
+* File

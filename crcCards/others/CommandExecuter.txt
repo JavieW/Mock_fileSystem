@@ -1,0 +1,9 @@
+Class name: CommandExecuter
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+* Execute the input command 
+
+Collaborators:
+* FileSystem

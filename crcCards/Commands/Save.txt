@@ -1,0 +1,10 @@
+Class name: Save
+Parent class (if any): Command
+Subclasses (if any):
+
+Responsibilities:
+* Write a file to recored the data of the Jshell 
+  so that next time you load the file you can
+  continues on where you left out
+Collaborators:
+* FileSystem

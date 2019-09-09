@@ -1,0 +1,40 @@
+//SprintB 1 Backlog.  
+Novenber 13 to Novenber 17
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) Able to export results of commands into a file such that 
+   no error message should be exported to the file and 
+   if the command has no output, no file should be created.
+b) Able to see all the subdirectories with -R supplemented to Ls. 
+   Through Ls, able to see the content of a path p, if p is a file, see its content.
+   and a reminder if p does not exist
+
+c) Able to move a file or directory to another directory
+
+d) Able to see the contents of both files if I add the contents of file A to file B,
+   but if file A for some reason is invalid, I should still be able to see file B
+
+Specific tasks to be accomplished:
+a-1. re-argue the validation of the inputs for all related command
+a-2, argue if the result of the command that should be exported into the file
+a-3, collaborate the echo class to export the results
+
+b-1, add a proper recursive call to see all sub-directories
+b-2, collaborate cat class to see the content in a file
+
+c-1, finish the new command rm
+
+d-1, change the behavior of the cat so that if one of the file is invalid, other files will sill be showed.
+
+
+These tasks are assigned as follows:
+
+User: Yuming Liu
+Tasks: b-1, b-2
+
+User: Yiqian Wu
+Tasks: c-1, d-1
+
+User: Jingwei Wang
+Tasks: a-1 ,a-2, a-3

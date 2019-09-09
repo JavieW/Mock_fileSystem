@@ -1,0 +1,41 @@
+//SprintB 1 Backlog.  
+Novenber 19 to Novenber 27
+
+
+User Stories from Product Backlog that we will address in this sprint:
+(a) Able to retrieve a file by a URL
+
+(b) Able to keep working from my last session
+	Able to save my current session for next time
+
+(c) Able to search for all files with a certain name in a provided directory
+	Able to search for all directories with a certain name in a provided directory
+	Able to search for all files with a certain name in the provided 2 directories
+	Able to search for all directories with a certain name in the provided 2 directories
+	If one of the two directories I am searching in is invalid, let me know and keep searching the other directories.
+	Display the results in an acceptable manner
+
+(d) Able to see the entire file system in the manner of the a tree
+
+Specific tasks to be accomplished:
+a-1. finish the new command get
+a-2. finish the union test for get
+
+b-1, finish the new command load
+b-2, finish the new command save
+b-3, finish the union test for load
+b-4, finish the union test for load
+
+c-1, finish the new command find
+c-2,finish the union test for find
+
+d-1, finish the new command tree
+d-2, finish the union test for tree
+
+These tasks are assigned as follows:
+
+User: Yuming Liu
+Tasks: c-1, c-2, d-1, d-2
+
+User: Jingwei Wang
+Tasks: b-1, b-2, b-3, a-1, a-2

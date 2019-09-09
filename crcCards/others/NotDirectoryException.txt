@@ -1,0 +1,9 @@
+Class name: NotDirectoryException
+Parent class (if any): Exception
+Subclasses (if any):
+
+Responsibilities:
+* Show that the current folder is not a directory
+
+Collaborators:
+/

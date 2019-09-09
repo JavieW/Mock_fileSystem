@@ -1,0 +1,9 @@
+Class name: Cp
+Parent class (if any): Command
+Subclasses (if any):
+
+Responsibilities:
+* move a file to a directory
+Collaborators:
+* FileSystem
+* Directory

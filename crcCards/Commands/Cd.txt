@@ -1,0 +1,13 @@
+Class name: Cd
+Parent class (if any): Command
+Subclasses (if any):
+
+Responsibilities:
+* Change the current directory to a child directory
+* Change the current directory to a parent directory
+* Change the current directory to a full path
+* Change the current directory to the root
+
+Collaborators:
+* FileSystem
+* Directory

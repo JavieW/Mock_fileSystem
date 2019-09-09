@@ -1,0 +1,14 @@
+Class name: find
+Parent class (if any): Command
+Subclasses (if any):
+
+Responsibilities:
+* find all the files in a given directory with a designated name
+* find all the directories in a given directory with a designated name
+* find all the files in two given directory with a designated name
+* find all the directories in two given directory with a designated name
+
+Collaborators:
+* FileSystem
+* Directory
+* File

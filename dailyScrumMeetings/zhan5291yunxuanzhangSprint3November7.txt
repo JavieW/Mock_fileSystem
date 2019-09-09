@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+	- Modified the CRC card because my team member has added some parent class to the command.
+	- Added the docstring to each public static method.
+	
+What do I plan to work in the next three days?
+	- Make preparation to the next assignment.
+
+Am I blocked on anything?
+	- A little problem with my unit test.

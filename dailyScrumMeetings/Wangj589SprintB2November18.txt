@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+	- fix the javadoc for all class
+	- add additional parameter for all command class in order to meet the new requirements
+	- wrote a helper class -- Getter
+	- improve Cd, Echo, Cat, Ls, Mkdir and CommandExcuter to meet the new requirements
+What do I plan to work in the next three days?
+	- improve all other classes that wrote in assignment 2A
+	- along with unin test classes for them
+	- write some new class that is new in assignment 2B
+Am I blocked on anything?
+	- 

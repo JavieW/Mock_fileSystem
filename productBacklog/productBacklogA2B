@@ -1,0 +1,27 @@
+Able to export results of commands into a file such that 
+no error message should be exported to the file and 
+if the command has no output, no file should be created.
+
+Able to see all the subdirectories with -R supplemented to Ls.
+
+Through Ls, able to see the content of a path p, if p is a file, see its content.
+and a reminder if p does not exist
+
+Able to move a file or directory to another directory
+
+Able to see the contents of both files if I add the contents of file A to file B,
+but if file A for some reason is invalid, I should still be able to see file B
+
+Able to retrieve a file by a URL
+
+Able to keep working from my last session
+Able to save my current session for next time
+
+Able to search for all files with a certain name in a provided directory
+Able to search for all directories with a certain name in a provided directory
+Able to search for all files with a certain name in the provided 2 directories
+Able to search for all directories with a certain name in the provided 2 directories
+If one of the two directories I am searching in is invalid, let me know and keep searching the other directories.
+Display the results in an acceptable manner
+
+Able to see the entire file system in the manner of the a tree

@@ -1,0 +1,9 @@
+Class name: FileSystem
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+* Managing Files.
+
+Collaborators:
+* StemFile

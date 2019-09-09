@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+	- wrote SytaxEvaluater class to check the validation of inputs
+	- add more arguments for cd and mkdir to check the validation of inputs
+	- wrote an CommendNotExitException
+	- worte an CommandExecuter class
+
+What do I plan to work in the next three days?
+	- wrote History, Pushd and Popd class
+	- fix the bug in CommandExcuter
+	- fix bugs about throwing exceptions
+
+Am I blocked on anything?
+	- 
+	

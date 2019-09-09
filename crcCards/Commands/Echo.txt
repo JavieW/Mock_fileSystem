@@ -1,0 +1,12 @@
+Class name: Echo
+Parent class (if any): Command
+Subclasses (if any):
+
+Responsibilities:
+* Write a string in the shell
+* Overwrite the contents in a existing file by a string
+
+Collaborators:
+* FileSystem
+* File
+* Directory

@@ -1,0 +1,9 @@
+Class name: SytaxEvaluater
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+* Judge whether the file name is valid(Return true or false)
+
+Collaborators:
+/

@@ -1,0 +1,298 @@
+==== A2 phase II marking ====
+Your assignment is marked by:
+Bryan Tam, bryan.tam@mail.utoronto.ca
+
+Group number: 401
+UTORID usernames of members: liuyumi1, wangj589
+Total deductions: -6
+Grade: C+ (The instructor, however, has increased your mark from C+ to B)
+
+Individual Grade due to insufficient contribution, according to CATME data:
+liuyumi1: F
+
+Your team's Phase II grade is based on this scale:
+
+    http://www.artsci.utoronto.ca/newstudents/transition/academic/grading
+
+The way we graded is as follows: your team starts with an A+. When errors and
+problems are found, you will lose 0, 1, 2, or 3 letter steps, depending on the
+severity. As an example, if you lost two steps, your team would earn an A-:
+
+     A+ -> A
+     A -> A-
+
+You were asked to follow the Scrum process. A big part of that is to maintain
+a product backlog and a sprint backlog.
+
+==== Product and Sprint backlogs ==== [up to -6]
+
+Several steps can be lost for these kinds of issues:
+
+- [ ]  No evidence of Product or Sprint backlog -6
+- [ ]  No evidence of team assigning tasks to team members -3
+- [ ]  SB items not taken directly from PB -1
+- [ ]  SB items not broken down into smaller steps -1
+- [ ]  PB, SB uses noticeably bad grammar and/or spelling -2
+
+TA COMMENTS:
+
+[Total deductions in this section: 0]
+
+==== Java Style ==== [up to -6]
+
+Steps can be lost for these kinds of issues:
+
+- [ ]  Java naming conventions not followed (camelCase, no_underscores) -1
+- [ ]  Instance variable names not meaningful (e.g., "Label1" is not a good name) -1
+- [ ]  Bad indentation -1
+- [ ]  Lack of consistency in style across files -1
+- [ ]  Bad use of whitespace: too much or too little -1
+- [ ]  Class names are frequently not noun phrases -1
+- [ ]  Method names are frequently not verb phrases -1
+- [ ]  Not following the 80character column width limit. -1
+
+TA COMMENTS:
+
+[Total deductions in this section: 0]
+
+==== Design ==== [up to -6]
+
+Several steps can be lost for these kinds of issues:
+
+- [ ]  public instance variables instead of setters and getters -1 to -2
+- [ ]  not a good breakdown of classes and methods (everything static;) -1
+- [ ]  long methods exist (more than roughly 30 lines from brace to brace) -1
+- [ ]  hard to add new commands -1
+- [ ]  no unified path handling mechanism -2
+- [x]  redirection doesn't easily incorporate new commands -2 [-1]
+
+TA COMMENTS:
+It is not a good design to have all other commands depend on Echo for redirection.
+Having a helper class to do it helps Echo follows SRP, since now it acts as a standalone command as well as helper for other commands.
+And also think about what if we decided to remove Echo as a standalone command.
+
+[Total deductions in this section: -1]
+
+==== Javadoc ==== [up to -3]
+
+Several steps can be lost for these kinds of issues:
+
+- [ ]  Missing Javadoc on methods -1 for infrequent problems, up to -3 for frequent
+- [ ]  Missing Javadoc on class -1
+- [ ]  No Javadoc on instance vars -1
+- [ ]  Missing use @param and @return tags -1
+- [ ]  Unclear English: bad grammar, bad spelling up to -2
+
+TA COMMENTS:
+
+[Total deductions in this section: 0]
+
+==== Testing ==== [up to -6]
+Several steps can be lost for these kinds of issues:
+
+- [ ]  No test cases exist for public methods -6
+- [x]  Some testing done for all classes and methods, but not thoroughly up to -3 [-2]
+- [ ]  Test quality is inadequate or tests uninformative -1 to -2
+        e.g., testing using lots of print statements instead of assert calls
+- [ ]  Code not written to be testable -2
+
+TA COMMENTS:
+Missing test for pushd, popd, get, mv etc.
+
+[Total deductions in this section: -2]
+
+==== Correctness ==== [up to -6]
+
+- [ ]  Code doesn't compile without modification (if the fix is simple) -1
+- [ ]  Code that is complete (from the SB) doesn't work completely: up to -2
+- [ ]  Code crashes: -3
+- [x]  Every 3 failed test cases -1 [-3]
+
+TA COMMENTS:
+Failed test cases [10]:
+1. ls with recursive -R
+underA printed twice
+
+Input:
+/# echo "root" > underRoot
+/# mkdir A
+/# cd A
+/A# echo "A" > underA
+/A# mkdir B
+/A# mkdir C
+/A# cd B
+/A/B# mkdir D
+/A/B# cd /
+/# ls -R
+
+Expected Output:
+A underRoot
+
+./A:
+B C underA
+
+./A/B:
+D
+
+./A/B/D:
+
+./A/C:
+
+Actual Output:
+/:
+underRoot
+underRoot
+A
+A:
+underA
+underA
+B
+B:
+D
+D:
+C
+C:
+
+2. mv file to new name
+
+Input:
+/# echo "test" > original
+/# mv original new
+
+Expected Output:
+/# ls
+new
+/# cat new
+test
+
+Actual Output:
+Exceptions.NotExistException: No such file or directory as 'new' !
+
+3. mv directory (with content) to new name
+
+Input:
+/# mkdir original
+/# cd original
+/original# echo "test" > file
+/original# cd ..
+/# mv original new
+
+Expected Output:
+/# ls
+new
+/# cd new
+/new# ls
+file
+/new# cat file
+test
+
+Actual Output:
+Exceptions.NotExistException: No such file or directory as 'new' !
+
+4. get with valid URL
+073.txt is one of the example in the assignment handout, so it should be supported.
+Support for `.` can be added, or `.txt` can be dropped when downloaded.
+
+Input:
+/# get http://www.cs.cmu.edu/~spok/grimmtmp/073.txt
+/# cat 073.txt
+
+Expected Output:
+There was once a king who had an illness, and no one believed that he
+would come out of it with his life.  He had three sons who were much
+distressed about it, and went down into the palace-garden and wept.
+There they met an old man who inquired as to the cause of their
+grief.  They told him that their father was so ill that he would most
+certainly die, for nothing seemed to cure him.  Then the old man
+said, "I know of one more remedy, and that is the water of life.  If
+he drinks of it he will become well again, but it is hard to find."
+The eldest said, "I will manage to find it." And went to the sick
+king, and begged to be allowed to go forth in search of the water of
+life, for that alone could save him.  "No," said the king, "the
+danger of it is too great.  I would rather die."
+...
+
+Actual Output:
+Exceptions.InvalidFileNameException: '073.txt' is a invalid file name
+
+5. Disabling load command if it is not the first command
+Input:
+/# mkdir A
+/# load file
+
+Expected Output:
+load is disabled (or similar error)
+
+Actual Output:
+(no output, file is loaded)
+
+6. Load a saved file and check history
+
+Input:
+mkdir A
+mkdir A/a1
+mkdir A/a2
+mkdir B
+mkdir B/b1
+mkdir B/b2
+save saveOne.txt
+exit
+(Relaunch)
+load saveOne.txt
+history
+
+Expected Output:
+1. mkdir A
+2. mkdir A/a1
+3. mkdir A/a2
+4. mkdir B
+5. mkdir B/b1
+6. mkdir B/b2
+...
+
+Actual Output:
+1. history
+2. load saveOne.txt
+
+7. find with no arg
+Input:
+/# find
+Expected Output:
+(Error message for missing arguments)
+Actual Output:
+java.lang.NullPointerException
+
+8. Finding file in folder using absolute path
+Input:
+/#  mkdir /TestFolder
+/#  cd TestFolder
+/TestFolder# echo "hello world" > targetFile
+/TestFolder# find /TestFolder -type f -name "targetFile"
+Expected Output:
+/TestFolder/targetFile (or similar messages that show file was found)
+Actual Output:
+(no output)
+
+9. Finding file in wrong type using relative path
+Input:
+/#  mkdir /TestFolder
+/#  cd TestFolder
+/TestFolder# echo "hello world" > targetFile
+/TestFolder# cd ..
+/#  find TestFolder -type d -name "targetFile"
+Expected Output:
+File not found (or similar message)
+Actual Output:
+(no output)
+
+10. Find non-existing file with absolute path
+Input:
+/#  mkdir /TestFolder
+/#  cd TestFolder
+/TestFolder# find /TestFolder -type f -name "targetFiles"
+Expected Output:
+File not found (or similar message)
+Actual Output:
+(no output)
+
+[Total deductions in this section: -3]

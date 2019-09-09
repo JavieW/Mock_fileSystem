@@ -1,0 +1,9 @@
+Class name: Popd
+Parent class (if any): Command
+Subclasses (if any):
+
+Responsibilities:
+* Remove the top directory from directory stack
+
+Collaborators:
+* FileSystem

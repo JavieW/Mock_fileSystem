@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+	- fix the bug of method getTargetDir in Cd
+	- enable mkdir to handle multiple arguments
+	- fix the bug in pwd
+	- fix the bug in DirectoryStack
+	- fix the bug in File
+	- improve add method in Dirctory
+
+What do I plan to work in the next three days?
+	- 
+
+Am I blocked on anything?
+	- 
+	

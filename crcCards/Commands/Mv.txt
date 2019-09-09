@@ -1,0 +1,12 @@
+Class name: Mv
+Parent class (if any): Command
+Subclasses (if any):
+
+Responsibilities:
+* Move item in OLDPATH to NEWPATH. If NEWPATH is a directory,
+  move the item into the directory.
+
+Collaborators:
+* FileSystem
+* File
+* Directory

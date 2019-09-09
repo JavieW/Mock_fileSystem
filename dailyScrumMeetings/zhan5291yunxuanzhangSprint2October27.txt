@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+	- Discuss with team members about how to improve our basic code without overriding.
+	- Check whether the comment of my cat class has some form problems.
+	
+What do I plan to work in the next three days?
+	- Improve comments in all files follow the correct form.
+	- Finish Sprint2 ahead of time.
+	
+Am I blocked on anything?
+	- I was a little confused about my part in Sprint2.
+	(But I am going to discuss with my team members. Then we can clearly make decision on our each task).

@@ -1,0 +1,42 @@
+//Sprint 2 Backlog.  
+October 18 to October 23
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) Able to quit the program                                                                              3hrs
+b) Able to make folder in an existing folder															 3hrs
+c) Able to make a folder in a full path																     3hrs
+d) Able to go back to previous folder																	 2hrs
+e) Able to check in a new folder by name that relates to the current folder							     2hrs
+f) Able to check to the home folder																	     2hrs
+g) Able to see contents of a file																		 2.5hrs
+h) Able to see an error message if the file or the folder does not exist								 2hrs
+i) Able to see what is inside of a directory															 2hrs														 
+j) Able to see the folder currently in and the folders that I went through to get to the current folder  2hrs
+
+Specific tasks to be accomplished:
+a-1. Write base code for Quit class
+b-1. Write base code for ls class
+c-1. Write base code for mkdir
+d-1. Write base code for Cd class to go back to previous folder
+d-2. Write base code for Cd class to open a related directory
+d-3. Write base code for Cd class to open root directory
+e-1. Write base code display contents of a file
+e-2. Write base code to display error message when file does not exist
+f-1. Write base code to display the path of current directory
+f-2. CRC card for above
+
+
+These tasks are assigned as follows:
+
+User: Yuming Liu
+Tasks: a-1, f-1,f-2, c1
+
+User: Yiqian Wu
+Tasks: b-1, c-1,f-2
+
+User: Jingwei Wang
+Tasks: a-1 ,d-1, d-2, d-3,f-2
+
+User: Yunxuan Zhang
+Tasks: e-1, e-2, f-2

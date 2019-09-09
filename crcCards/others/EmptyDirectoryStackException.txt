@@ -1,0 +1,9 @@
+Class name: EmptyDirectoryStackException
+Parent class (if any): Exception
+Subclasses (if any):
+
+Responsibilities:
+* Show that the directory stack is empty
+
+Collaborators:
+/

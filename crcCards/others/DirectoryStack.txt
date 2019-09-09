@@ -1,0 +1,9 @@
+Class name: DirectoryStack
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+* Put in and extract out directory as a form of Stack
+
+Collaborators:
+* Directory
